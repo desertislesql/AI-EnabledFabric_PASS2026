@@ -6,11 +6,16 @@ The easiest way to get all of the content is to click on the green button that s
 ## Prerequisistes
 We hope that you have installed these elements prior to class, but if not, please install them before class starts
 * **VS Code**
-	* **Jupyter Notebook extension**
-	* **Fabric Engineering extension
-* **python**
-* **miniconda**
+	* **Github Copilot Chat**
 
+Please note that the VS Code Fabric Engineering Extension requires the following Prerequisistes
+* **Jupyter Notebook extension**	
+* **python  https://www.python.org/downloads/ **
+* **miniconda  https://www.anaconda.com/download**
+* **Java JDK  https://adoptium.net/temurin/releases**
+
+Once these have been installed then you can install	
+* **Fabric Engineering extension**
 
 Open up SSMS locally and connect to your SQLServer2025 instance. Right click on restore database
 
