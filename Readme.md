@@ -17,9 +17,6 @@ Please note that the VS Code Fabric Engineering Extension requires the following
 Once these have been installed then you can install	
 * **Fabric Engineering extension**
 
-Open up SSMS locally and connect to your SQLServer2025 instance. Right click on restore database
-
-
 
 ### Contents
 ##### Class Exercises  
