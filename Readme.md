@@ -1,4 +1,4 @@
-# AI-EnabledFabric_Pass2025
+# AI-EnabledFabric_PASS2025
 Hello!  This repo contains the instructions and contents you will need for this class.
 
 The easiest way to get all of the content is to click on the green button that says **Code** and select **Download Zip**
