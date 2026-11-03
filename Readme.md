@@ -18,9 +18,9 @@ Once these have been installed then you can install
 * **Fabric Engineering extension**
 
 
-### Contents
-##### Class Exercises  
-
+### Exercises
+	Exercises for Enabling AI in your Data Practice.pdf
+	DWScript.sql
  
 ### Resources
 
