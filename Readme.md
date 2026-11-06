@@ -20,13 +20,14 @@ Once these have been installed then you can install
 
 ### Exercises
 	Exercises for Enabling AI in your Data Practice.pdf
-	DWScript.sql
+	AWDW Sales Analysis.pbix
  
 ### Resources
 
 ##### Project Osmos Prompt Markdown
 	ProjectOsmosTemplate.md
-
+##### Demo information
+DWScript.sql
  
 
 Slides will be available at the end of class
