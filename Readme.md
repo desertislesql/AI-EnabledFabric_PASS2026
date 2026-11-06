@@ -13,7 +13,7 @@ We hope that you have installed these elements prior to class, but if not, pleas
 	* **TMDL Extension** https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL
 
 Please note that the VS Code Fabric Engineering Extension requires the following Prerequisistes
-* **Jupyter Notebook extension**	
+* **Jupyter Notebook extension https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter**
 * **Python https://www.python.org/downloads/  NOT version 3.12**
 * **miniconda  https://www.anaconda.com/download**
 * **Java JDK  https://adoptium.net/temurin/releases**
