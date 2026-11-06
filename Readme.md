@@ -26,8 +26,9 @@ Once these have been installed then you can install
 
 ##### Project Osmos Prompt Markdown
 	ProjectOsmosTemplate.md
+
 ##### Demo information
-DWScript.sql
+    DWScript.sql
  
 
 Slides will be available at the end of class
