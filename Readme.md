@@ -20,7 +20,7 @@ Please note that the VS Code Fabric Engineering Extension requires the following
 * **Java JDK  https://adoptium.net/temurin/releases**
 
 Once these have been installed then you can install	
-* **Fabric Engineering extension**
+* **Fabric Engineering extension  https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.synapse**
 
 
 ### Exercises
