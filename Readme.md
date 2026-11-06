@@ -31,4 +31,4 @@ Once these have been installed then you can install
     DWScript.sql
  
 
-Slides will be available at the end of class
+*Slides will be available at the end of class*
